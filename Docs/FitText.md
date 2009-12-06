@@ -3,9 +3,7 @@ Class: FitText {#FitText}
 
 <big>Truncates the text nodes of elements to fit inside a container</big>
 
-### MooShell Demo:
-
-<iframe src="http://mooshell.net/rpflo/FSPP4/embedded/?tabs=result,js,html,css" style="width: 100%; height:450px"></iframe>
+<iframe src="http://mooshell.net/rpflo/FSPP4/embedded/result,js,html,css" style="width: 100%; height:450px"></iframe>
 
 
 FitText Method: constructor {#FitText:constructor}

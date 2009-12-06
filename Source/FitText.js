@@ -1,3 +1,29 @@
+/*
+---
+
+script: FitText.js
+
+description: Truncates the text nodes of elements to fit inside a container
+
+license: MIT-style license.
+
+authors: Ryan Florence <http://ryanflorence.com>
+
+docs: http://moodocs.net/rpflo/mootools-rpflo/FitText
+
+requires:
+- /Element
+- /Options
+- /Events
+- /Array.each
+
+provides: [FitText]
+
+...
+*/
+
+
+
 var FitText = new Class({
   
 	Implements: Options,
