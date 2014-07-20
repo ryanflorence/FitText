@@ -12,10 +12,10 @@ authors: Ryan Florence <http://ryanflorence.com>
 docs: http://moodocs.net/rpflo/mootools-rpflo/FitText
 
 requires:
-- /Element
-- /Options
-- /Events
-- /Array.each
+- Core/Element
+- Core/Options
+- Core/Events
+- Core/Array.each
 
 provides: [FitText]
 
